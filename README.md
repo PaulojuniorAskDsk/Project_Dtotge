@@ -1,2 +1,2 @@
 # Project_Dtotge
- Repository the project
+ I have the goal of creating a minimalist social network
